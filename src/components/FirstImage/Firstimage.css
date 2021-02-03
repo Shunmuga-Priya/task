@@ -1,0 +1,48 @@
+.sss{
+    font-size: 35px;
+    margin-top: 0px;
+    padding-top: 12px;
+}
+.kk{
+    font-size: 19px;
+    margin-left: 34px;
+}
+.btn_align{
+    border-style: solid;
+    border-radius: 20px;
+    width: 221px;
+    padding: 7px;
+
+}
+.ssd{
+    background-image: url("/src/components/Images/Banner.jpg");
+}
+.mded{
+    margin-top: 20px;
+}
+.caps_color{
+    font-size: 20px;
+    color: cornflowerblue;
+}
+.second_header{
+    display: flex;
+    justify-content: center;
+    padding-top: 31px;
+    font-weight: bold;
+    font-size: 22px;
+}
+.sec_image{
+    display: flex;
+    justify-content: center;
+}
+.round_image{
+    width: 400px;
+    margin: 20px;
+}
+.round_header{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding-top: 10px;
+
+}

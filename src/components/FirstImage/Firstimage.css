@@ -7,16 +7,15 @@
     font-size: 19px;
     margin-left: 34px;
 }
-.btn_align{
+.border_align{
     border-style: solid;
     border-radius: 20px;
     width: 221px;
     padding: 7px;
+    border-color: white;
 
 }
-.ssd{
-    background-image: url("/src/components/Images/Banner.jpg");
-}
+
 .mded{
     margin-top: 20px;
 }

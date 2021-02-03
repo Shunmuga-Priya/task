@@ -19,7 +19,6 @@ import Prevois from "../Images/prevarrow.png"
 
 class FirstImage extends React.Component{
     render(){
-
         return(
             <div>
  {/* first image */}
@@ -28,7 +27,7 @@ class FirstImage extends React.Component{
                   <p className="sss">BUSINESS PROCESS AUTOMATION</p>
                   <p  className="kk">Harness the power of automation to improve your bottom line and librate tour highly skilled employees from routine, repetitive tasks </p>
                   <div style={{display:"flex", justifyContent:"center"}}>
-                  <p className="btn_align">TELL US ABOUT UR PROJECT</p>
+                  <p className="border_align">TELL US ABOUT UR PROJECT</p>
 
                   </div>
                  

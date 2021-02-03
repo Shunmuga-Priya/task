@@ -2,10 +2,12 @@
     font-size: 35px;
     margin-top: 0px;
     padding-top: 12px;
+    color: white;
 }
 .kk{
     font-size: 19px;
     margin-left: 34px;
+    color: white;
 }
 .border_align{
     border-style: solid;
@@ -20,7 +22,7 @@
     margin-top: 20px;
 }
 .caps_color{
-    font-size: 20px;
+    font-size: 18px;
     color: cornflowerblue;
 }
 .second_header{
